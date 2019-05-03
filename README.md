@@ -1,6 +1,6 @@
 # nutravels
 Travel agency front-end UI with Materialize JavaScript and jQuery
-Result of tinkering with MaterializeCSS and jQuery:
+Result of tinkering with MaterializeCSS and jQuery, missing back-end features for the search and the contact form. Should be implemented soon:
 ![Screen Shot 2019-05-03 at 5 17 05 PM](https://user-images.githubusercontent.com/38046425/57166187-6449fa00-6dc7-11e9-8f24-5012496ed12a.png)
 ![Screen Shot 2019-05-03 at 5 17 14 PM](https://user-images.githubusercontent.com/38046425/57166190-657b2700-6dc7-11e9-891a-6d801539f316.png)
 ![Screen Shot 2019-05-03 at 5 17 21 PM](https://user-images.githubusercontent.com/38046425/57166191-66ac5400-6dc7-11e9-9fe4-e9cbb8fa4618.png)
